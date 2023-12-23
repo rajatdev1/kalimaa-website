@@ -1,0 +1,10 @@
+/* In your CSS file */
+@media (max-width: 768px) {
+  .hamburger-style {
+    display: block; /* Show hamburger icon on mobile */
+  }
+
+  .nav-style {
+    display: none; /* Hide navigation menu on mobile */
+  }
+}
